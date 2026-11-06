@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Youth Underemployment — Philippines</title>
+<link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+<div class="viz-root">
+
+<header class="top">
+  <div class="wrap top-row">
+    <div>
+      <h1>Youth Underemployment</h1>
+      <p class="sub">Philippines · Ages 15–34 · Jan 2021 – Aug 2026</p>
+    </div>
+    <button class="theme-toggle" id="themeToggle" type="button" aria-label="Toggle dark mode"></button>
+  </div>
+</header>
+
+<main class="wrap">
+  <p id="status" class="status" role="status">Loading…</p>
+
+  <section class="reveal">
+    <div class="sec-head">
+      <div><h2>Timeline</h2>
+      <p class="note"><b>Time-series analysis.</b> Watch monthly underemployment headcounts unfold from Jan 2021 to Aug 2026 for ages 15–24 and 25–34. Use the toggle to filter by sex and the slider to jump to any month.</p></div>
+      <div class="seg" id="tlSex">
+        <button type="button" class="on" data-sex="Both sexes">Both</button>
+        <button type="button" data-sex="Male">Male</button>
+        <button type="button" data-sex="Female">Female</button>
+      </div>
+    </div>
+    <div class="card hero">
+      <div class="readout">
+        <div class="month" id="tlMonth">—</div>
+        <div class="rd"><i style="background:var(--series-y1524)"></i><span>15–24</span><b id="tlVal1">–</b></div>
+        <div class="rd"><i style="background:var(--series-y2534)"></i><span>25–34</span><b id="tlVal2">–</b></div>
+      </div>
+      <div class="chart-box hero-box"><canvas id="chartTimeline"></canvas></div>
+      <div class="player">
+        <button class="play" id="tlPlay" type="button" aria-label="Play"><span></span></button>
+        <input type="range" id="tlRange" min="0" max="67" value="0" aria-label="Month">
+      </div>
+    </div>
+  </section>
+
+  <section class="reveal">
+    <div class="sec-head"><div><h2>Male vs. female</h2>
+      <p class="note"><b>Group comparison.</b> Male and female monthly headcounts side by side within each age cohort, showing whether one sex is consistently more underemployed. Hover to see the gap for a month.</p></div></div>
+    <div class="two-col">
+      <div class="card"><h3>Ages 15–24</h3><div class="chart-box"><canvas id="chartGender1524"></canvas></div></div>
+      <div class="card"><h3>Ages 25–34</h3><div class="chart-box"><canvas id="chartGender2534"></canvas></div></div>
+    </div>
+  </section>
+
+  <section class="reveal">
+    <div class="sec-head"><div><h2>Drill-down</h2>
+      <p class="note"><b>Hierarchical analysis.</b> Pick all years, one year, or a single month. The trend chart re-scopes to that period, and the breakdown splits it into age cohort, then sex, with each share of the total.</p></div></div>
+    <div class="hier-layout">
+      <div class="card tree-panel">
+        <div class="tree" id="timeTree"></div>
+      </div>
+      <div class="hier-right">
+        <div class="card">
+          <h3>Trend<span class="scope-tag" id="trendScopeLabel"></span></h3>
+          <div class="chart-box tall"><canvas id="chartTrend"></canvas></div>
+        </div>
+        <div class="card">
+          <h3>Breakdown<span class="scope-tag" id="demoScopeLabel"></span></h3>
+          <div class="dtree" id="demoTree"></div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="reveal">
+    <div class="sec-head"><div><h2>Seasonality</h2>
+      <p class="note"><b>Seasonal pattern.</b> The average for each calendar month across all years, revealing recurring highs and lows during the year. Months marked * average one year fewer because the data ends in August 2026.</p></div></div>
+    <div class="card"><div class="chart-box"><canvas id="chartSeasonal"></canvas></div></div>
+  </section>
+
+  <section class="reveal">
+    <div class="sec-head"><div><h2>Correlation</h2>
+      <p class="note"><b>Correlation analysis.</b> How closely each pair of series moves together (Pearson r, 0 to 1). Darker cells mean they rise and fall together. This shows association, not cause.</p></div></div>
+    <div class="card">
+      <div class="heatmap-wrap"><table class="heatmap" id="heatmapTable"></table></div>
+      <div class="heatmap-legend"><span>0</span><i></i><span>1</span></div>
+    </div>
+  </section>
+
+  <footer>Source: Philippine Statistics Authority, Labor Force Survey · Persons</footer>
+</main>
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script type="module" src="js/main.js"></script>
+</body>
+</html>

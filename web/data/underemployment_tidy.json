@@ -1,0 +1,3266 @@
+[
+ {
+  "year": 2021,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 826.356
+ },
+ {
+  "year": 2021,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1763.756
+ },
+ {
+  "year": 2021,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 579.638
+ },
+ {
+  "year": 2021,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1247.714
+ },
+ {
+  "year": 2021,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 246.719
+ },
+ {
+  "year": 2021,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 516.042
+ },
+ {
+  "year": 2021,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 937.168
+ },
+ {
+  "year": 2021,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 2017.816
+ },
+ {
+  "year": 2021,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 657.944
+ },
+ {
+  "year": 2021,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1395.177
+ },
+ {
+  "year": 2021,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 279.224
+ },
+ {
+  "year": 2021,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 622.639
+ },
+ {
+  "year": 2021,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 936.911
+ },
+ {
+  "year": 2021,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 2106.366
+ },
+ {
+  "year": 2021,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 666.505
+ },
+ {
+  "year": 2021,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1432.447
+ },
+ {
+  "year": 2021,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 270.406
+ },
+ {
+  "year": 2021,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 673.919
+ },
+ {
+  "year": 2021,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 1001.999
+ },
+ {
+  "year": 2021,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 2044.772
+ },
+ {
+  "year": 2021,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 694.977
+ },
+ {
+  "year": 2021,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1361.218
+ },
+ {
+  "year": 2021,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 307.022
+ },
+ {
+  "year": 2021,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 683.554
+ },
+ {
+  "year": 2021,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 659.081
+ },
+ {
+  "year": 2021,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1434.601
+ },
+ {
+  "year": 2021,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 464.798
+ },
+ {
+  "year": 2021,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1002.583
+ },
+ {
+  "year": 2021,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 194.283
+ },
+ {
+  "year": 2021,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 432.018
+ },
+ {
+  "year": 2021,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 919.056
+ },
+ {
+  "year": 2021,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1723.39
+ },
+ {
+  "year": 2021,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 658.729
+ },
+ {
+  "year": 2021,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1131.439
+ },
+ {
+  "year": 2021,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 260.327
+ },
+ {
+  "year": 2021,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 591.95
+ },
+ {
+  "year": 2021,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 1042.974
+ },
+ {
+  "year": 2021,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 2462.661
+ },
+ {
+  "year": 2021,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 733.529
+ },
+ {
+  "year": 2021,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1677.048
+ },
+ {
+  "year": 2021,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 309.444
+ },
+ {
+  "year": 2021,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 785.613
+ },
+ {
+  "year": 2021,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 821.756
+ },
+ {
+  "year": 2021,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1853.668
+ },
+ {
+  "year": 2021,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 569.861
+ },
+ {
+  "year": 2021,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1253.897
+ },
+ {
+  "year": 2021,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 251.895
+ },
+ {
+  "year": 2021,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 599.771
+ },
+ {
+  "year": 2021,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 759.851
+ },
+ {
+  "year": 2021,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1656.052
+ },
+ {
+  "year": 2021,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 512.203
+ },
+ {
+  "year": 2021,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1112.057
+ },
+ {
+  "year": 2021,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 247.647
+ },
+ {
+  "year": 2021,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 543.995
+ },
+ {
+  "year": 2021,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 888.88
+ },
+ {
+  "year": 2021,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1916.026
+ },
+ {
+  "year": 2021,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 641.393
+ },
+ {
+  "year": 2021,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1340.725
+ },
+ {
+  "year": 2021,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 247.487
+ },
+ {
+  "year": 2021,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 575.301
+ },
+ {
+  "year": 2021,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 1085.834
+ },
+ {
+  "year": 2021,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 2029.473
+ },
+ {
+  "year": 2021,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 745.997
+ },
+ {
+  "year": 2021,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1431.176
+ },
+ {
+  "year": 2021,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 339.837
+ },
+ {
+  "year": 2021,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 598.298
+ },
+ {
+  "year": 2021,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 728.263
+ },
+ {
+  "year": 2021,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1916.943
+ },
+ {
+  "year": 2021,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 534.156
+ },
+ {
+  "year": 2021,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1279.362
+ },
+ {
+  "year": 2021,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 194.107
+ },
+ {
+  "year": 2021,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 637.581
+ },
+ {
+  "year": 2022,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 705.305
+ },
+ {
+  "year": 2022,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1763.691
+ },
+ {
+  "year": 2022,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 510.154
+ },
+ {
+  "year": 2022,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1217.882
+ },
+ {
+  "year": 2022,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 195.151
+ },
+ {
+  "year": 2022,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 545.81
+ },
+ {
+  "year": 2022,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 837.542
+ },
+ {
+  "year": 2022,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1545.291
+ },
+ {
+  "year": 2022,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 547.89
+ },
+ {
+  "year": 2022,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1045.869
+ },
+ {
+  "year": 2022,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 289.652
+ },
+ {
+  "year": 2022,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 499.422
+ },
+ {
+  "year": 2022,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 879.652
+ },
+ {
+  "year": 2022,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 2002.68
+ },
+ {
+  "year": 2022,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 628.768
+ },
+ {
+  "year": 2022,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1301.648
+ },
+ {
+  "year": 2022,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 250.884
+ },
+ {
+  "year": 2022,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 701.032
+ },
+ {
+  "year": 2022,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 702.877
+ },
+ {
+  "year": 2022,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1760.637
+ },
+ {
+  "year": 2022,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 511.146
+ },
+ {
+  "year": 2022,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1167.145
+ },
+ {
+  "year": 2022,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 191.731
+ },
+ {
+  "year": 2022,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 593.492
+ },
+ {
+  "year": 2022,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 744.971
+ },
+ {
+  "year": 2022,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1855.545
+ },
+ {
+  "year": 2022,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 537.067
+ },
+ {
+  "year": 2022,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1229.643
+ },
+ {
+  "year": 2022,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 207.904
+ },
+ {
+  "year": 2022,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 625.902
+ },
+ {
+  "year": 2022,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 653.407
+ },
+ {
+  "year": 2022,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1555.819
+ },
+ {
+  "year": 2022,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 431.997
+ },
+ {
+  "year": 2022,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1032.525
+ },
+ {
+  "year": 2022,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 221.411
+ },
+ {
+  "year": 2022,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 523.294
+ },
+ {
+  "year": 2022,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 796.015
+ },
+ {
+  "year": 2022,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1645.606
+ },
+ {
+  "year": 2022,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 568.274
+ },
+ {
+  "year": 2022,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1130.229
+ },
+ {
+  "year": 2022,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 227.741
+ },
+ {
+  "year": 2022,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 515.376
+ },
+ {
+  "year": 2022,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 848.168
+ },
+ {
+  "year": 2022,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1711.571
+ },
+ {
+  "year": 2022,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 611.077
+ },
+ {
+  "year": 2022,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1107.621
+ },
+ {
+  "year": 2022,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 237.091
+ },
+ {
+  "year": 2022,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 603.95
+ },
+ {
+  "year": 2022,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 807.434
+ },
+ {
+  "year": 2022,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 2032.571
+ },
+ {
+  "year": 2022,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 586.96
+ },
+ {
+  "year": 2022,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1269.946
+ },
+ {
+  "year": 2022,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 220.474
+ },
+ {
+  "year": 2022,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 762.625
+ },
+ {
+  "year": 2022,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 685.614
+ },
+ {
+  "year": 2022,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1732.446
+ },
+ {
+  "year": 2022,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 489.703
+ },
+ {
+  "year": 2022,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1165.302
+ },
+ {
+  "year": 2022,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 195.911
+ },
+ {
+  "year": 2022,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 567.144
+ },
+ {
+  "year": 2022,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 852.74
+ },
+ {
+  "year": 2022,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1816.285
+ },
+ {
+  "year": 2022,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 616.742
+ },
+ {
+  "year": 2022,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1123.291
+ },
+ {
+  "year": 2022,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 235.998
+ },
+ {
+  "year": 2022,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 692.994
+ },
+ {
+  "year": 2022,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 629.447
+ },
+ {
+  "year": 2022,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1595.674
+ },
+ {
+  "year": 2022,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 431.027
+ },
+ {
+  "year": 2022,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1071.011
+ },
+ {
+  "year": 2022,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 198.421
+ },
+ {
+  "year": 2022,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 524.664
+ },
+ {
+  "year": 2023,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 719.729
+ },
+ {
+  "year": 2023,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1862.388
+ },
+ {
+  "year": 2023,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 525.856
+ },
+ {
+  "year": 2023,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1276.992
+ },
+ {
+  "year": 2023,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 193.873
+ },
+ {
+  "year": 2023,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 585.396
+ },
+ {
+  "year": 2023,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 696.661
+ },
+ {
+  "year": 2023,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1799.527
+ },
+ {
+  "year": 2023,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 530.02
+ },
+ {
+  "year": 2023,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1236.751
+ },
+ {
+  "year": 2023,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 166.642
+ },
+ {
+  "year": 2023,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 562.776
+ },
+ {
+  "year": 2023,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 612.083
+ },
+ {
+  "year": 2023,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1494.321
+ },
+ {
+  "year": 2023,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 462.89
+ },
+ {
+  "year": 2023,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1053.358
+ },
+ {
+  "year": 2023,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 149.193
+ },
+ {
+  "year": 2023,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 440.963
+ },
+ {
+  "year": 2023,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 668.653
+ },
+ {
+  "year": 2023,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1679.697
+ },
+ {
+  "year": 2023,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 488.663
+ },
+ {
+  "year": 2023,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1127.401
+ },
+ {
+  "year": 2023,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 179.99
+ },
+ {
+  "year": 2023,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 552.296
+ },
+ {
+  "year": 2023,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 669.208
+ },
+ {
+  "year": 2023,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1528.565
+ },
+ {
+  "year": 2023,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 472.415
+ },
+ {
+  "year": 2023,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1021.057
+ },
+ {
+  "year": 2023,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 196.793
+ },
+ {
+  "year": 2023,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 507.508
+ },
+ {
+  "year": 2023,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 548.672
+ },
+ {
+  "year": 2023,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1634.578
+ },
+ {
+  "year": 2023,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 397.429
+ },
+ {
+  "year": 2023,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1074.074
+ },
+ {
+  "year": 2023,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 151.244
+ },
+ {
+  "year": 2023,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 560.504
+ },
+ {
+  "year": 2023,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 748.362
+ },
+ {
+  "year": 2023,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 2005.466
+ },
+ {
+  "year": 2023,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 532.824
+ },
+ {
+  "year": 2023,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1377.012
+ },
+ {
+  "year": 2023,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 215.538
+ },
+ {
+  "year": 2023,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 628.454
+ },
+ {
+  "year": 2023,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 599.755
+ },
+ {
+  "year": 2023,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1466.878
+ },
+ {
+  "year": 2023,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 395.706
+ },
+ {
+  "year": 2023,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1038.36
+ },
+ {
+  "year": 2023,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 204.049
+ },
+ {
+  "year": 2023,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 428.519
+ },
+ {
+  "year": 2023,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 526.891
+ },
+ {
+  "year": 2023,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1440.382
+ },
+ {
+  "year": 2023,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 340.21
+ },
+ {
+  "year": 2023,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 963.593
+ },
+ {
+  "year": 2023,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 186.68
+ },
+ {
+  "year": 2023,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 476.789
+ },
+ {
+  "year": 2023,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 627.116
+ },
+ {
+  "year": 2023,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1558.07
+ },
+ {
+  "year": 2023,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 446.528
+ },
+ {
+  "year": 2023,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1064.245
+ },
+ {
+  "year": 2023,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 180.588
+ },
+ {
+  "year": 2023,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 493.826
+ },
+ {
+  "year": 2023,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 714.967
+ },
+ {
+  "year": 2023,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1758.069
+ },
+ {
+  "year": 2023,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 439.389
+ },
+ {
+  "year": 2023,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1098.903
+ },
+ {
+  "year": 2023,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 275.578
+ },
+ {
+  "year": 2023,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 659.165
+ },
+ {
+  "year": 2023,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 742.004
+ },
+ {
+  "year": 2023,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1715.047
+ },
+ {
+  "year": 2023,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 513.86
+ },
+ {
+  "year": 2023,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1206.802
+ },
+ {
+  "year": 2023,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 228.143
+ },
+ {
+  "year": 2023,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 508.244
+ },
+ {
+  "year": 2024,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 649.493
+ },
+ {
+  "year": 2024,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1740.169
+ },
+ {
+  "year": 2024,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 467.576
+ },
+ {
+  "year": 2024,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1216.872
+ },
+ {
+  "year": 2024,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 181.917
+ },
+ {
+  "year": 2024,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 523.297
+ },
+ {
+  "year": 2024,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 768.946
+ },
+ {
+  "year": 2024,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1774.999
+ },
+ {
+  "year": 2024,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 527.739
+ },
+ {
+  "year": 2024,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1158.486
+ },
+ {
+  "year": 2024,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 241.206
+ },
+ {
+  "year": 2024,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 616.513
+ },
+ {
+  "year": 2024,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 669.521
+ },
+ {
+  "year": 2024,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1557.803
+ },
+ {
+  "year": 2024,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 483.254
+ },
+ {
+  "year": 2024,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1124.905
+ },
+ {
+  "year": 2024,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 186.267
+ },
+ {
+  "year": 2024,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 432.898
+ },
+ {
+  "year": 2024,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 811.275
+ },
+ {
+  "year": 2024,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1978.002
+ },
+ {
+  "year": 2024,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 547.312
+ },
+ {
+  "year": 2024,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1336.1
+ },
+ {
+  "year": 2024,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 263.963
+ },
+ {
+  "year": 2024,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 641.902
+ },
+ {
+  "year": 2024,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 588.792
+ },
+ {
+  "year": 2024,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1344.596
+ },
+ {
+  "year": 2024,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 415.283
+ },
+ {
+  "year": 2024,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 885.567
+ },
+ {
+  "year": 2024,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 173.509
+ },
+ {
+  "year": 2024,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 459.03
+ },
+ {
+  "year": 2024,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 802.307
+ },
+ {
+  "year": 2024,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1774.374
+ },
+ {
+  "year": 2024,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 560.315
+ },
+ {
+  "year": 2024,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1153.457
+ },
+ {
+  "year": 2024,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 241.992
+ },
+ {
+  "year": 2024,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 620.917
+ },
+ {
+  "year": 2024,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 696.39
+ },
+ {
+  "year": 2024,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1659.114
+ },
+ {
+  "year": 2024,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 482.781
+ },
+ {
+  "year": 2024,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1128.486
+ },
+ {
+  "year": 2024,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 213.61
+ },
+ {
+  "year": 2024,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 530.628
+ },
+ {
+  "year": 2024,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 595.46
+ },
+ {
+  "year": 2024,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1458.673
+ },
+ {
+  "year": 2024,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 393.082
+ },
+ {
+  "year": 2024,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1013.665
+ },
+ {
+  "year": 2024,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 202.378
+ },
+ {
+  "year": 2024,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 445.008
+ },
+ {
+  "year": 2024,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 669.54
+ },
+ {
+  "year": 2024,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1689.281
+ },
+ {
+  "year": 2024,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 437.004
+ },
+ {
+  "year": 2024,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1112.537
+ },
+ {
+  "year": 2024,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 232.536
+ },
+ {
+  "year": 2024,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 576.744
+ },
+ {
+  "year": 2024,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 639.975
+ },
+ {
+  "year": 2024,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1738.849
+ },
+ {
+  "year": 2024,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 450.185
+ },
+ {
+  "year": 2024,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1183.25
+ },
+ {
+  "year": 2024,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 189.789
+ },
+ {
+  "year": 2024,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 555.599
+ },
+ {
+  "year": 2024,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 575.354
+ },
+ {
+  "year": 2024,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1440.984
+ },
+ {
+  "year": 2024,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 399.345
+ },
+ {
+  "year": 2024,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 989.854
+ },
+ {
+  "year": 2024,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 176.01
+ },
+ {
+  "year": 2024,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 451.13
+ },
+ {
+  "year": 2024,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 629.076
+ },
+ {
+  "year": 2024,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1691.173
+ },
+ {
+  "year": 2024,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 406.274
+ },
+ {
+  "year": 2024,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1063.313
+ },
+ {
+  "year": 2024,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 222.802
+ },
+ {
+  "year": 2024,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 627.86
+ },
+ {
+  "year": 2025,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 680.983
+ },
+ {
+  "year": 2025,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1741.999
+ },
+ {
+  "year": 2025,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 505.962
+ },
+ {
+  "year": 2025,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1240.064
+ },
+ {
+  "year": 2025,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 175.021
+ },
+ {
+  "year": 2025,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 501.934
+ },
+ {
+  "year": 2025,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 509.187
+ },
+ {
+  "year": 2025,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1551.613
+ },
+ {
+  "year": 2025,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 407.253
+ },
+ {
+  "year": 2025,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1101.616
+ },
+ {
+  "year": 2025,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 101.933
+ },
+ {
+  "year": 2025,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 449.997
+ },
+ {
+  "year": 2025,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 734.406
+ },
+ {
+  "year": 2025,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1810.84
+ },
+ {
+  "year": 2025,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 548.416
+ },
+ {
+  "year": 2025,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1273.125
+ },
+ {
+  "year": 2025,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 185.99
+ },
+ {
+  "year": 2025,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 537.715
+ },
+ {
+  "year": 2025,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 763.047
+ },
+ {
+  "year": 2025,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1946.121
+ },
+ {
+  "year": 2025,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 539.943
+ },
+ {
+  "year": 2025,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1288.901
+ },
+ {
+  "year": 2025,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 223.104
+ },
+ {
+  "year": 2025,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 657.22
+ },
+ {
+  "year": 2025,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 707.763
+ },
+ {
+  "year": 2025,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1785.943
+ },
+ {
+  "year": 2025,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 485.793
+ },
+ {
+  "year": 2025,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1219.278
+ },
+ {
+  "year": 2025,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 221.97
+ },
+ {
+  "year": 2025,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 566.665
+ },
+ {
+  "year": 2025,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 615.082
+ },
+ {
+  "year": 2025,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1638.07
+ },
+ {
+  "year": 2025,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 445.478
+ },
+ {
+  "year": 2025,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1099.845
+ },
+ {
+  "year": 2025,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 169.605
+ },
+ {
+  "year": 2025,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 538.225
+ },
+ {
+  "year": 2025,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 667.388
+ },
+ {
+  "year": 2025,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1832.179
+ },
+ {
+  "year": 2025,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 492.234
+ },
+ {
+  "year": 2025,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1270.538
+ },
+ {
+  "year": 2025,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 175.154
+ },
+ {
+  "year": 2025,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 561.641
+ },
+ {
+  "year": 2025,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 678.183
+ },
+ {
+  "year": 2025,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1365.354
+ },
+ {
+  "year": 2025,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 519.988
+ },
+ {
+  "year": 2025,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 973.69
+ },
+ {
+  "year": 2025,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 158.194
+ },
+ {
+  "year": 2025,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 391.664
+ },
+ {
+  "year": 2025,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 553.048
+ },
+ {
+  "year": 2025,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1481.622
+ },
+ {
+  "year": 2025,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 403.702
+ },
+ {
+  "year": 2025,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 993.136
+ },
+ {
+  "year": 2025,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 149.346
+ },
+ {
+  "year": 2025,
+  "month": "September",
+  "month_num": 9,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 488.486
+ },
+ {
+  "year": 2025,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 599.973
+ },
+ {
+  "year": 2025,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1645.157
+ },
+ {
+  "year": 2025,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 421.196
+ },
+ {
+  "year": 2025,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1159.673
+ },
+ {
+  "year": 2025,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 178.778
+ },
+ {
+  "year": 2025,
+  "month": "October",
+  "month_num": 10,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 485.485
+ },
+ {
+  "year": 2025,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 528.033
+ },
+ {
+  "year": 2025,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1481.034
+ },
+ {
+  "year": 2025,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 352.191
+ },
+ {
+  "year": 2025,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 986.777
+ },
+ {
+  "year": 2025,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 175.842
+ },
+ {
+  "year": 2025,
+  "month": "November",
+  "month_num": 11,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 494.257
+ },
+ {
+  "year": 2025,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 447.724
+ },
+ {
+  "year": 2025,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1089.84
+ },
+ {
+  "year": 2025,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 332.633
+ },
+ {
+  "year": 2025,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 764.271
+ },
+ {
+  "year": 2025,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 115.091
+ },
+ {
+  "year": 2025,
+  "month": "December",
+  "month_num": 12,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 325.569
+ },
+ {
+  "year": 2026,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 650.282
+ },
+ {
+  "year": 2026,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1661.16
+ },
+ {
+  "year": 2026,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 478.353
+ },
+ {
+  "year": 2026,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1141.077
+ },
+ {
+  "year": 2026,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 171.929
+ },
+ {
+  "year": 2026,
+  "month": "January",
+  "month_num": 1,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 520.084
+ },
+ {
+  "year": 2026,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 653.825
+ },
+ {
+  "year": 2026,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1673.614
+ },
+ {
+  "year": 2026,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 466.746
+ },
+ {
+  "year": 2026,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1105.733
+ },
+ {
+  "year": 2026,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 187.079
+ },
+ {
+  "year": 2026,
+  "month": "February",
+  "month_num": 2,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 567.881
+ },
+ {
+  "year": 2026,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 752.736
+ },
+ {
+  "year": 2026,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1538.719
+ },
+ {
+  "year": 2026,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 506.679
+ },
+ {
+  "year": 2026,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1128.85
+ },
+ {
+  "year": 2026,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 246.058
+ },
+ {
+  "year": 2026,
+  "month": "March",
+  "month_num": 3,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 409.868
+ },
+ {
+  "year": 2026,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 876.045
+ },
+ {
+  "year": 2026,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1949.485
+ },
+ {
+  "year": 2026,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 620.486
+ },
+ {
+  "year": 2026,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1290.599
+ },
+ {
+  "year": 2026,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 255.56
+ },
+ {
+  "year": 2026,
+  "month": "April",
+  "month_num": 4,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 658.886
+ },
+ {
+  "year": 2026,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 787.445
+ },
+ {
+  "year": 2026,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1578.378
+ },
+ {
+  "year": 2026,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 553.378
+ },
+ {
+  "year": 2026,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1012.397
+ },
+ {
+  "year": 2026,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 234.067
+ },
+ {
+  "year": 2026,
+  "month": "May",
+  "month_num": 5,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 565.981
+ },
+ {
+  "year": 2026,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 742.665
+ },
+ {
+  "year": 2026,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1700.197
+ },
+ {
+  "year": 2026,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 531.802
+ },
+ {
+  "year": 2026,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1103.755
+ },
+ {
+  "year": 2026,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 210.864
+ },
+ {
+  "year": 2026,
+  "month": "June",
+  "month_num": 6,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 596.442
+ },
+ {
+  "year": 2026,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 713.74
+ },
+ {
+  "year": 2026,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1657.737
+ },
+ {
+  "year": 2026,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 530.617
+ },
+ {
+  "year": 2026,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1116.804
+ },
+ {
+  "year": 2026,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 183.123
+ },
+ {
+  "year": 2026,
+  "month": "July",
+  "month_num": 7,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 540.933
+ },
+ {
+  "year": 2026,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Both sexes",
+  "age": "15-24",
+  "thousands": 586.96
+ },
+ {
+  "year": 2026,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Both sexes",
+  "age": "25-34",
+  "thousands": 1487.808
+ },
+ {
+  "year": 2026,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Male",
+  "age": "15-24",
+  "thousands": 441.222
+ },
+ {
+  "year": 2026,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Male",
+  "age": "25-34",
+  "thousands": 1051.226
+ },
+ {
+  "year": 2026,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Female",
+  "age": "15-24",
+  "thousands": 145.738
+ },
+ {
+  "year": 2026,
+  "month": "August",
+  "month_num": 8,
+  "sex": "Female",
+  "age": "25-34",
+  "thousands": 436.581
+ }
+]
